@@ -1,0 +1,15 @@
+PRINT "Hello! I am a chatbot!"
+PRINT "I am very chatty though!"
+INPUT "Anyway, enough about me, what's your name?" name$
+PRINT ""
+PRINT name% "...  " "Hmm... That's a lovely name! I will call you " name$ " from now on!"
+PRINT ""
+INPUT "How are you?" feeling$
+PRINT "I'm " feeling$ " when you're " feeling$"
+PRINT "Well, "name$ ", I have to go now!"
+PRINT "Be back later!"
+PRINT ""
+PRINT ""
+PRINT "By @officialtab2 on GitHub!"
+PRINT "to talk to Chatbot later, go to conversation02"
+
