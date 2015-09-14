@@ -1,0 +1,19 @@
+PRINT "Oh hi! It is you again!"
+PRINT "I have missed you!"
+INPUT "Sorry, I am very forgetful. What's your name again?" name$
+PRINT "Oh yes! " name$ "! Sorry for forgetting, I have been very busy!"
+PRINT ""
+INPUT "What is your favorite animal?" animal$
+PRINT animal$ "? That's my favorite too!"
+PRINT ""
+INPUT "What about your favorite color?" color$
+PRINT color$ "...  Mine is bluuuurpleeeeeeeeeeeeeeeeeeeee. It's a robot thing."
+PRINT ""
+PRINT "Got to go now, bye!"
+PRINT ""
+PRINT ""
+PRINT "github.com/officialtab2"
+PRINT ""
+PRINT "2015"
+
+
